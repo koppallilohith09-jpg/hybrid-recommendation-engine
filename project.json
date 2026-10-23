@@ -1,0 +1,8 @@
+{
+  "name": "hybrid-recommendation-engine",
+  "brand": "Shelf",
+  "section": "Recommendations",
+  "subtitle": "A closer look at what belongs next.",
+  "port": 8902,
+  "description": "Hybrid content and collaborative recommendations with transparent score breakdowns."
+}
